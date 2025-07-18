@@ -1,0 +1,17 @@
+/target/
+
+/client/balsam_key.bin
+balsam_key.bin
+
+/server/.env
+
+*.log
+
+.DS_Store
+
+Thumbs.db
+
+.vscode/
+
+*.swp
+*.swo
