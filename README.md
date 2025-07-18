@@ -1,4 +1,4 @@
-# **Welcome to Balsam**
+# **Balsam**
 
 Balsam is a messaging protocol built for privacy and security from the ground up. If you're looking for a communication system that puts you in control, you've come to the right place. This project is both a specification and a working example, containing everything you need to run your own secure server and chat client.
 
@@ -12,16 +12,10 @@ Balsam is a messaging protocol built for privacy and security from the ground up
 
 .  
 ├── protocol/  
-│   \# The heart of the project. Defines the shared language,  
-│   \# data structures, and crypto functions for the client and server.  
-│  
-├── server/  
-│   \# The server-side application that listens for connections,  
-│   \# manages accounts, and routes encrypted messages.  
+│     
+├── server/   
 │  
 └── client/  
-    \# The command-line client you'll use to connect to the  
-    \# Balsam network and chat with others.
 
 ## **Getting Started**
 
